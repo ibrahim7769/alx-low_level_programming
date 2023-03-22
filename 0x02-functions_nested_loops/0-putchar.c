@@ -1,5 +1,14 @@
 #include <stdio.h>
-int main() {
-	printf("_putchar\n");
-	return 0;
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+    printf("_putchar\n");
+    return (0);
+}
+
 }
